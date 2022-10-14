@@ -1,0 +1,23 @@
+{
+  "name": "challenge-two",
+  "version": "1.0.0",
+  "description": "Reto 2 html y css",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohnDGC/challenge-two.git"
+  },
+  "keywords": [
+    "html",
+    "css"
+  ],
+  "author": "JohnDGC",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JohnDGC/challenge-two/issues"
+  },
+  "homepage": "https://github.com/JohnDGC/challenge-two#readme"
+}
