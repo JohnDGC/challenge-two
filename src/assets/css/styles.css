@@ -31,16 +31,16 @@ body {
   border-radius: 15px;
 }
 
-.card__left__column {
+.card__left__col {
   max-width: 300px;
 }
 
-.card__left__column img {
+.card__left__col img {
   max-width: 100%;
   border-radius: 15px 0px 0px 15px;
 }
 
-.card__right__column {
+.card__right__col {
   width: 50%;
   display: flex;
   flex-direction: column;
@@ -71,14 +71,14 @@ p.product-description {
   align-items: center;
 }
 
-p.new-price {
+p.price__new {
   font-family: "Fraunces", serif;
   color: #3c8067;
   font-size: 3rem;
   padding-right: 20px;
 }
 
-p.old-price {
+p.price__old {
   color: #6c7289;
   text-decoration: line-through;
 }
@@ -116,16 +116,16 @@ p.old-price {
   .card {
     flex-direction: column;
   }
-  .card__left__column {
+  .card__left__col {
     max-width: 100%;
   }
-  .card__left__column img {
+  .card__left__col img {
     border-radius: 0px;
     max-height: 400px;
     width: 100%;
     object-fit: cover;
   }
-  .card__right__column {
+  .card__right__col {
     width: 100%;
   }
   h5.product,
